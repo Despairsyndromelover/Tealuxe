@@ -414,7 +414,7 @@ body {
 }
 
 .splashscreen {
-  background: url(img/MAIN-BG.jpg) no-repeat center bottom/cover;
+  background: url(/img/MAIN-BG.jpg) no-repeat center bottom / cover;
 }
 .splashscreen__inner {
   padding-top: 250px;
