@@ -414,7 +414,7 @@ body {
 }
 
 .splashscreen {
-  background: url(/img/MAIN-BG.jpg) no-repeat center bottom / cover;
+  background: url(/img/MAIN/MAIN-BG.jpg) no-repeat center bottom / cover;
 }
 .splashscreen__inner {
   padding-top: 250px;
@@ -946,7 +946,7 @@ body {
 }
 
 .subscribe {
-  background: url(/img/FORM-BG.png) center center/cover;
+  background: url(/img/MAIN/FORM-BG.png) center center / cover;
 }
 .subscribe__inner {
   padding: 120px 0;
