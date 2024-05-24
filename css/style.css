@@ -946,7 +946,7 @@ body {
 }
 
 .subscribe {
-  background: url("../../img/FORMBG.png") center center/cover;
+  background: url("FORMBG.png") no-repeat center center/cover;
 }
 .subscribe__inner {
   padding: 120px 0;
